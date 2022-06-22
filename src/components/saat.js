@@ -1,11 +1,10 @@
 import React, {useState} from "react";
 
-
-
-
-
 function Saat(){
 const [timer, setTimer] = useState();
+
+
+
 
 
 setInterval(() => {
